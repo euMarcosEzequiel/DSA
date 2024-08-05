@@ -41,6 +41,6 @@ Verificar se o JDK está instalado no nosso computador seguindo esses passos:
 
     C:\Users\user>javac -version_
 
-Será exibido na tela a versão do Java que está instalada no seu computador, caso apresente uma mensagem de erro significa que o Java não foi instalado. Para fazer o download do JDK acesse o site oficial da Oracle, <a href="https://www.oracle.com/java/technologies/downloads/#jdk22-windows" target="_blank">https://www.oracle.com/java/technologies/downloads/#jdk22-windows</a>, depois repita os passos novamente para certificar que a instalação foi realizado com sucesso.
+Será exibido na tela a versão do compilador Java que está instalada no seu computador, caso apresente uma mensagem de erro significa que o kit de desenvolvimento java não foi instalado. Para fazer o download do JDK acesse o site oficial da Oracle, <a href="https://www.oracle.com/java/technologies/downloads/#jdk22-windows" target="_blank">https://www.oracle.com/java/technologies/downloads/#jdk22-windows</a>, depois repita os passos novamente para certificar que a instalação foi realizado com sucesso.
 
 Se as instalações tiverão exito o nosso ambiente já está pronto para criar e executar programas na linguagem Java.
